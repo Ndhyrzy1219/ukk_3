@@ -3,7 +3,7 @@
 
     <!-- SECTION SEJARAH  -->
      <section>
-        <div class="container mt-5">
+        <div class="container py-3">
             <div class="row">
                 <div class="col-lg-12">
                         <h5 class="mb-0" style="color : #75b6e7;">Sejarah</h5>

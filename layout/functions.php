@@ -9,12 +9,6 @@
         ];
     }
 
-
-    function getDataSiswaPerTahun() {
-        return [
-            'labels' => ['2022', '2023', '2024'],
-            'data' => [1250, 1400, 1500]
-        ];
-    }
+$data = getStatistikSekolah();
 
 ?>

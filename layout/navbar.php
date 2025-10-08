@@ -41,7 +41,7 @@
 
         <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav mx-auto">
-                <li class="nav-item"><a class="nav-link active" href="home.php">Beranda</a></li>
+                <li class="nav-item"><a class="nav-link active" href="index.php">Beranda</a></li>
 
                 <li class="nav-item dropdown">
                     <a class="nav-link active dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -52,10 +52,9 @@
                         <li><a class="dropdown-item" href="visimisi.php">Visi Misi</a></li>
                     </ul>
                 </li>
-
-                <li class="nav-item"><a class="nav-link active" href="keahlian.php">Konsentrasi Keahlian</a></li>
                 <li class="nav-item"><a class="nav-link active" href="eskul.php">Ekstrakurikuler</a></li>
                 <li class="nav-item"><a class="nav-link active" href="galeri.php">Galeri</a></li>
+                <li class="nav-item"><a class="nav-link active" href="keahlian.php">Konsentrasi Keahlian</a></li>
             </ul>
         </div>
     </div>
