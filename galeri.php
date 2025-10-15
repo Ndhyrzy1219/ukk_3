@@ -15,10 +15,10 @@
                        <h5 class="mt-3 text-center" style="color: #75b6e7;">HUT RI</h5>
                        <?php
                        $hut = [
-                        'img/hut1.JPG',
-                        'img/hut2.JPG',
-                        'img/hut1.JPG',
-                        'img/hut4.JPG'
+                        'img/mbg.jpg',
+                        'img/mbg4.jpg',
+                        'img/mbg5.jpg',
+                        'img/mbg6.jpg'
                        ];
                        ?>
                        <div class="row p-4">
