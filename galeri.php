@@ -11,7 +11,7 @@
 
             <div class="row m-4">
                 <div class="col-12">
-                    <div class="card border-0 shadow-lg">
+                    <div  class="card border-0 shadow-lg">
                        <h5 class="mt-3 text-center" style="color: #75b6e7;">HUT RI</h5>
                        <?php
                        $hut = [
@@ -36,7 +36,7 @@
 
             <div class="row m-4">
                 <div class="col-12 mt-2">
-                    <div class="card border-0 shadow-lg">
+                    <div  class="card border-0 shadow-lg">
                        <h5 class="mt-3 text-center" style="color: #75b6e7;">MBG</h5>
                        <?php
                        $mbg = [
@@ -65,6 +65,8 @@
 </section>
 
     <!-- TUTUP SECTION GALERI -->
+
+
 
 
 <?php include 'layout/footer.php'; ?>
