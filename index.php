@@ -112,16 +112,11 @@
 
 
  <!-- section statistik -->
-  if($data['siswa']> 1000) {
-    echo "<p> Sekolah ini memiliki banyak siswa</p>";
-  }else {
-    echo "<p> Sekolah ini tidak memiliki banyak siswa</p>";
-  }
-  ?>
 <section class="py-5">
     <div class="container">
         <div class="card shadow-lg border-0 rounded-4" style="background-color: #75b6e7;">
             <div class="row text-center text-white p-4">
+          <h5 class="mb-0 fw-bold text-center" style="color: #f3f6f8ff;">Galeri</h5>
 
                 <div class="col-lg-3 col-md-6 mb-3">
                     <div class="card border-0 bg-transparent text-white">
@@ -151,6 +146,16 @@
                     </div>
                 </div>
 
+                
+
+             <?php
+                if ($data['siswa'] > 1000) {
+                    echo '<p class="text-center fw-bold mb-4">Sekolah ini memiliki banyak siswa</p>';
+                } else {
+                    echo '<p class="text-center fw-bold mb-4">Sekolah ini tidak memiliki banyak siswa</p>';
+                }
+                ?>
+                
             </div>
         </div>
     </div>
