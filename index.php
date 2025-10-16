@@ -152,7 +152,7 @@
                 if ($data['siswa'] > 1000) {
                     echo '<p class="text-center fw-bold mb-4">Sekolah ini memiliki banyak siswa</p>';
                 } else {
-                    echo '<p class="text-center fw-bold mb-4">Sekolah ini tidak memiliki banyak siswa</p>';
+                    echo '<p class="text-center fw-bold mb-4">Sekolah ini masih berkembang</p>';
                 }
                 ?>
                 
